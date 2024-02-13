@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+}
+
+.contenedor{
+    background-color: rgb(151, 40, 255);
+    width: 100vw;
+    height: 200vh;
+    justify-content: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+
+    
+}
+button{
+    font-size: xx-large;
+    padding: 0.85em;
+}
+
+.btn1{
+    padding: 20px ;
+    background-color: rgb(8, 255, 103);
+    border: none;
+    color: white;
+    margin-right: -300px;
+   
+}
+.btn2{
+    padding: 20px;
+    background-color: rgb(197, 5, 5);
+    border: none;
+    color: white;
+    margin-left: -100px;
+}
+
+.Eve {
+    margin-top: -70px;
+    margin-left: 400px;
+    margin-bottom: 120px;
+    width: 300px;
+}
+#1{
+    position: translate(-100%,0);
+
+}
+#2{
+    position: absolute;
+}
